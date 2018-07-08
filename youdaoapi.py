@@ -110,6 +110,7 @@ def getItem(title,subtitle):
         item['title'] = title
         item['subtitle'] = subtitle
         item['icon'] = getIcon()
+        item['arg'] = title
         return item
     else:
         return None
