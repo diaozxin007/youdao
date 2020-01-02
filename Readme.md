@@ -6,7 +6,7 @@
 
 下载地址
 
-[有道 workflow 威力加强版](https://xilidou.oss-cn-beijing.aliyuncs.com/file/%E6%9C%89%E9%81%93%E5%AD%97%E5%85%B8%E5%A8%81%E5%8A%9B%E5%8A%A0%E5%BC%BA%E7%89%88.alfredworkflow)
+[有道 workflow 威力加强版](https://img.xilidou.com/file/%E6%9C%89%E9%81%93%E5%AD%97%E5%85%B8%E5%A8%81%E5%8A%9B%E5%8A%A0%E5%BC%BA%E7%89%88.alfredworkflow)
 
 [github](https://github.com/diaozxin007/youdao)
 
